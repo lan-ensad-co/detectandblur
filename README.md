@@ -1,7 +1,6 @@
 # detectandblur
 Détection d'objets dans une image avec Opencv+Yolov3 et floutage de la zone concernée
 
-http://olivain.art/wannabeblog/articles/yolo_image.php
 
 ![example](http://olivain.art/blurd/Vnb4YahtVZVu.jpg)
 
